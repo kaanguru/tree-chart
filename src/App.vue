@@ -554,7 +554,7 @@ export default {
           bottom: "20%",
 
           symbol: "emptyCircle",
-
+          symbolSize: 16,
           orient: "vertical",
 
           expandAndCollapse: true,
@@ -564,7 +564,7 @@ export default {
             rotate: -90,
             verticalAlign: "middle",
             align: "right",
-            fontSize: 16
+            fontSize: 18
           },
 
           leaves: {
