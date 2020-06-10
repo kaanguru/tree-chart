@@ -5,18 +5,18 @@
 <script>
 const treeData = {
   id: "1",
-  name: "simarik",
+  name: "Şımarık",
   bilezik: "TR-34-",
   children: [
     {
       id: "3",
-      name: "rezzan",
+      name: "Rezzan",
       bilezik: "TR-34-99-3-2020",
       Cinsiyet: "disi",
       children: [
         {
           id: "12",
-          name: "cilgin",
+          name: "Çılgın",
           bilezik: "TR-34-99-2-2021",
           Cinsiyet: "erkek",
           children: [
@@ -54,7 +54,7 @@ const treeData = {
         },
         {
           id: "13",
-          name: "rimel",
+          name: "Rimel",
           bilezik: "TR-34-99-3-2021",
           Cinsiyet: "disi",
           children: [
