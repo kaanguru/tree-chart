@@ -548,10 +548,10 @@ export default {
     this.chartSettings = {
       seriesMap: {
         tree1: {
-          left: "2%",
+          left: "5%",
           right: "2%",
-          top: "15%",
-          bottom: "12%",
+          top: "19%",
+          bottom: "20%",
 
           symbol: "emptyCircle",
 
@@ -564,7 +564,7 @@ export default {
             rotate: -90,
             verticalAlign: "middle",
             align: "right",
-            fontSize: 12
+            fontSize: 16
           },
 
           leaves: {
